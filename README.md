@@ -1,4 +1,4 @@
-##**This project is now archived as Glitch has changed the way it works making this code useless. Feel free to look around and learn off of it :)**
+## **This project is now archived as Glitch has changed the way it works making this code useless. Feel free to look around and learn off of it :)**
 
 # GlitchPing
 NodeJS Application for pinging glitch projects to keep them online 24/7
